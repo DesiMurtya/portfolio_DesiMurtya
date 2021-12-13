@@ -154,7 +154,7 @@ section h3::after {
 	left: calc(50% - 20px);
 }
 
-#about p{
+.about p{
 	text-align: center;
 	text-indent: 30px;
 	line-height: 25px;
@@ -240,8 +240,3 @@ footer{
 	padding: 50px;
 	text-align: center;
 }
-
-
-
-
-
